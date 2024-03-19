@@ -1,5 +1,6 @@
-Á½¸ö½á¹ûÎÄ¼ş(Ê¹ÓÃRAG+few-shot)µÄ²î±ğ£º
-- accident_resultµÄtemperature=0.85
-- accident_result2µÄtemperature=0
-Ã÷ÏÔtemperature´óµÄÉú³ÉµÄ³¡¾°½ÏÎª·á¸»£¬±ä»¯´ó
-output.mdÖĞÊÇ½öÊ¹ÓÃfew-shotµÄ½á¹û£¬Î´Ê¹ÓÃRAG
+ä¸¤ä¸ªç»“æœæ–‡ä»¶(ä½¿ç”¨RAG+few-shot)çš„å·®åˆ«ï¼š
+- accident_resultçš„temperature=0.85
+- accident_result2çš„temperature=0
+æ˜æ˜¾temperatureå¤§çš„ç”Ÿæˆçš„åœºæ™¯è¾ƒä¸ºä¸°å¯Œï¼Œå˜åŒ–å¤§
+
+output.mdä¸­æ˜¯ä»…ä½¿ç”¨few-shotçš„ç»“æœï¼Œæœªä½¿ç”¨RAG
