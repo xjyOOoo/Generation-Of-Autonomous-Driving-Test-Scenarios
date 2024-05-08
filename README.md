@@ -1,3 +1,4 @@
-# generation of autonomous driving test scenarios
-- generate�ļ��У��洢л���ԵĹ���
-- openai_API�ļ��У��洢���ϵĹ���
+# 基于大模型的自动驾驶仿真测试场景高效生成技术研究
+采用RAG技术增强大模型生成事故报告的能力
+- generate文件夹：存储谢俊言的工作
+- openai_API文件夹：存储雷皓迪的工作
