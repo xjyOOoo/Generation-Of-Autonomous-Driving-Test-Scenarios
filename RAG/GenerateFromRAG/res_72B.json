@@ -1,0 +1,7398 @@
+[
+    {
+        "type": "face to face collision",
+        "score": "0.69555736"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7336995"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7785469"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7709571"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.83209515"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.71605563"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70291895"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75944436"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7498819"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7123096"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7935618"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7195871"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7357664"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.70868134"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7046028"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7065562"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7372988"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.79720986"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7264333"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73485756"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7127609"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7666551"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7328235"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72660434"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74619234"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7500806"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76548254"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7488317"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69768226"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8199868"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.78531945"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6944988"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.68341815"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7518482"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77924705"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.71880555"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76189166"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.6984444"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.79854"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76405704"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7265313"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7764696"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73421484"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7119769"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73137957"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69701546"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7204394"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7430165"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75057036"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77127457"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7118293"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74648595"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6706783"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7577405"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.799774"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.68754053"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.74894464"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7018429"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7701105"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75160927"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7445867"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7362135"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7791682"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7661023"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76436275"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7542151"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7457756"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76635534"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8047053"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8370079"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7731249"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7241224"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.743012"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76112235"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77779996"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75944704"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73622715"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7539486"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75072956"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8742026"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7781323"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7357602"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.74021566"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7561366"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7637392"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74340725"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7437798"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7380004"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.743189"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7384942"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.79427695"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7380543"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7620234"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7111591"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7745419"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.69293606"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7970088"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7274928"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76318365"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74709475"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72003317"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74983275"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77757156"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7899772"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73889035"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7442466"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7636368"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75427455"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7630239"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7442797"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.77812755"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.6792809"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7155833"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75783926"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.74517167"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7578391"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7273693"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75995946"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7629945"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72946924"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7451186"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73374134"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7423484"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.734175"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7554167"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.84595"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.72138536"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7870309"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7821276"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7461492"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7418785"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6922554"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7326436"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7430619"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76723313"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76934576"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76407236"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7389072"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74048215"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7118786"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80063343"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73349047"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7634037"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78088087"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73299396"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7600086"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.79082716"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76250505"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7936492"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7415402"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7007661"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7279316"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7014799"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7450348"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69996136"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76961666"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74826205"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76960397"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7673751"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75082177"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75407803"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7681165"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76449287"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75254583"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7699077"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7840133"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7870488"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.82769823"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7342865"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7424953"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7663207"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7817234"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7560574"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7925997"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7747726"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7545297"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7756411"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75299364"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72953165"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7478554"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.8159034"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72635275"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7370566"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.735038"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.8219904"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73555374"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7605003"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7235044"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7370373"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7965934"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73858905"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7580218"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7514128"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77806616"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.65819263"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.72010964"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73633707"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7737574"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.72293824"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7232295"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7620398"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7894953"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6827632"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.891878"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7096288"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.694947"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73273695"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7389108"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7596625"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7416724"
+    },
+    {
+        "type": "rear end",
+        "score": "0.78560054"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7420401"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7757659"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7306116"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7521583"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73509395"
+    },
+    {
+        "type": "rear end",
+        "score": "0.739336"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7306955"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8022295"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73139906"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70819855"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6879233"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7319958"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7526099"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.70534825"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7498933"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71062195"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7646888"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7517938"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7308576"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7355219"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7422531"
+    },
+    {
+        "type": "rear end",
+        "score": "0.71194386"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7375512"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8123213"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77025783"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7745262"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7265196"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71006763"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7187518"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77194446"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7701218"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73071355"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.83266723"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75177616"
+    },
+    {
+        "type": "rear end",
+        "score": "0.784669"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8111271"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7837632"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7300609"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7081372"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7086747"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73966956"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7639947"
+    },
+    {
+        "type": "rear end",
+        "score": "0.69166076"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7680656"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7424671"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7569669"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7599627"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7290179"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80940884"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7391254"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76471126"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7612477"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74554324"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72506607"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7040558"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.77564776"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73301613"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75308967"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7182388"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.751786"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7484468"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75029296"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74749494"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7655374"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7584563"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73434806"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7456327"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7726387"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7010654"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75397694"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77512646"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7910911"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7587632"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.71584016"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7236147"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74507093"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7035185"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69956815"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7385342"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73531365"
+    },
+    {
+        "type": "rear end",
+        "score": "0.77278"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76024926"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7032955"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8235346"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74254906"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7300593"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7754706"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7838636"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.69609946"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8273542"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.72614753"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7883615"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7421713"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7688676"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7583793"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7421251"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7441115"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76264083"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.6958028"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73159707"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.66490734"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7528746"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7614044"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.71788"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74775696"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.71886027"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7273588"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7079904"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8145314"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.763517"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69259465"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.78283787"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75324655"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73114127"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7445087"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7691028"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7906773"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73601437"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.68590057"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7004975"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7806474"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.70174634"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7066628"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.758014"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6699567"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7428083"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7071625"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7848685"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76952004"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.78947616"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7585437"
+    },
+    {
+        "type": "rear end",
+        "score": "0.78042036"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7994549"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80806917"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7289834"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7288025"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71923774"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7624302"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7456473"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73535454"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7503633"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.772365"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7649897"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76248455"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6688266"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7403241"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73592424"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75784844"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7571176"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7383715"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7786491"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7529161"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7714447"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74378"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80891633"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7382933"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7647394"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.82212436"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7265732"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.6960369"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.76628447"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8048407"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.70709515"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6834787"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7313397"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7529725"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77130556"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.72145087"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7439489"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8148546"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7534418"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.65365684"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7408832"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7702604"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8348311"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7453735"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.74742794"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.72800666"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7626514"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7179315"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.70988274"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73063374"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74970645"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7142689"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74982953"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.767017"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7373544"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7660966"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7588896"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73550904"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7543473"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7213681"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7854854"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7684996"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72023463"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7189306"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.81858575"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76636314"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.6924982"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7620838"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6966193"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76633716"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7975802"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78860545"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76694435"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73933995"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7247534"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7810888"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74473786"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6985944"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73332196"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.79003036"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.88820267"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7343742"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75716287"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74562657"
+    },
+    {
+        "type": "rear end",
+        "score": "0.77592444"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7291182"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7906217"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73251164"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.77454"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75388"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7293289"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74024856"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73953265"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.69202685"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7325852"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7273066"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7719959"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72152126"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73944193"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7488385"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74754876"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7512335"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7456193"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7167473"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7646366"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7769444"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73302615"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.70799965"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74346775"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7643063"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7658814"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73507774"
+    },
+    {
+        "type": "rear end",
+        "score": "0.755357"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7791302"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7692129"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7300605"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.77391696"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.787426"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8378128"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7616935"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75913095"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7703331"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72540116"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7014848"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7830923"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7366855"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7444479"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7273823"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7594134"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.768285"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7076711"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71847177"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7416941"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7537861"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73956394"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7646036"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72948384"
+    },
+    {
+        "type": "rear end",
+        "score": "0.738106"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75632757"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74012434"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.85489255"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7678116"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73039126"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72626376"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7154069"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74618566"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.82477045"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80393875"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77480066"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.743829"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72915024"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73631"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7251017"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7522439"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.716518"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.68760574"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7972456"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7487231"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7200583"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7488086"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7619535"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72943735"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7184377"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6987253"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73450893"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73241043"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7416618"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76747984"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.85713625"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78336036"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7289398"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73895586"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7613895"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77563983"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7912381"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7452929"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7646663"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7521936"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.862191"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7484259"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73245835"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7547656"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7582776"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.70341516"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.72857106"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.6990363"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7458637"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8001616"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72981775"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75709367"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8746394"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7672876"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7776989"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7561569"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7216847"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7548529"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77422166"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7446095"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74049866"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7290864"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7782893"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7265515"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80046"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75428057"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71127677"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7207825"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.74084926"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7366087"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75183827"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7298994"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73680735"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7344706"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.72477126"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76109755"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77017117"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72455573"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7275026"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7415967"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7579366"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75722414"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7440542"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8667048"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7278837"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8080425"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76785314"
+    },
+    {
+        "type": "rear end",
+        "score": "0.752201"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74435556"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71477497"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73448646"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7470354"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75217474"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7774683"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7456038"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78150785"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.752303"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7641698"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7512744"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.85625327"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74206"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7432252"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7409611"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73062325"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7594584"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7232472"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7335509"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7361672"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7549546"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7520255"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7891195"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.6937198"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7631241"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7103299"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7635738"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75049746"
+    },
+    {
+        "type": "rear end",
+        "score": "0.71673787"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.82990885"
+    },
+    {
+        "type": "rear end",
+        "score": "0.737651"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7596412"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.752386"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7418051"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74613523"
+    },
+    {
+        "type": "rear end",
+        "score": "0.757215"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7919432"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77644056"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76018107"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7586734"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6954802"
+    },
+    {
+        "type": "rear end",
+        "score": "0.750694"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7776324"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77570057"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76626337"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7742617"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7274057"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76098186"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7631422"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73877394"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6806551"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6780911"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7227292"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.8000481"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7974668"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7342325"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7764108"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.703616"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.821858"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7262573"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7634218"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76120055"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7462094"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7723926"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72384775"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7532306"
+    },
+    {
+        "type": "rear end",
+        "score": "0.771036"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.68174314"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.77678895"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8052777"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7290708"
+    },
+    {
+        "type": "rear end",
+        "score": "0.80545306"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7473239"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7404164"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7433707"
+    },
+    {
+        "type": "rear end",
+        "score": "0.739539"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.85817677"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7196757"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7263486"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78082126"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7236412"
+    },
+    {
+        "type": "rear end",
+        "score": "0.77706265"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7452919"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.80634415"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.81595993"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7650473"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7502268"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.79435897"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7322185"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.772105"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7691372"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7600086"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7413169"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7417587"
+    },
+    {
+        "type": "rear end",
+        "score": "0.760959"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76455414"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7620988"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7693474"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7591006"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7785966"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7321552"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7518685"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7333593"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7653351"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7421876"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75018585"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7401034"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73776054"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75496674"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7904415"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7497"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74958026"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75688136"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.760833"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75478315"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73272556"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74147433"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7355438"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77633226"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7421547"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7661955"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7161233"
+    },
+    {
+        "type": "rear end",
+        "score": "0.71310055"
+    },
+    {
+        "type": "rear end",
+        "score": "0.776743"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7659831"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7276907"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.759696"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74382615"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7370043"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72954684"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8094412"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.81838804"
+    },
+    {
+        "type": "rear end",
+        "score": "0.78024054"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7793704"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7323266"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7874275"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7392754"
+    },
+    {
+        "type": "rear end",
+        "score": "0.71669286"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75287884"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73759353"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7859429"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.71565473"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7592338"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.67897034"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7243748"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77130055"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7172152"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76554644"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7991437"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.766438"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75815624"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7384262"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7197414"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80939066"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7046258"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7282368"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.74824774"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72588706"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7455454"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7668401"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7199039"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7579807"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75110483"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.755625"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7310271"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7438676"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76812476"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7469945"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7288958"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76640224"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7610405"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77189386"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.82738364"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72843146"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.87020236"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75866604"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75337684"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7308252"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.67729294"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7752744"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7396705"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7597621"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73912185"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7149545"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7777017"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.694123"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7740673"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74147767"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76653636"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76731944"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7266487"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.70660096"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7518306"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74053943"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7717742"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.71610904"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7700921"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7632091"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7515245"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7463126"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7345384"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74213886"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7804221"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7351959"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8317599"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75419927"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72083986"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7106502"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74204755"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78461766"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7026738"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7441481"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.71729946"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76684594"
+    },
+    {
+        "type": "rear end",
+        "score": "0.77896065"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.79544747"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74957263"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74646026"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78527427"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8740512"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7193778"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7514961"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7546011"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74172676"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7545221"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.713297"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6965854"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78254926"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73791873"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7590289"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73155576"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7153876"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71361697"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73841196"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7336829"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.70753044"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7334939"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74755454"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6875998"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7095703"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70958066"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7663364"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73186815"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7705432"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.74533784"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7400188"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7632889"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7544376"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7375282"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7052611"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7247858"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7848563"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8893046"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7652055"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75141394"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7371202"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73995674"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7524004"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7930763"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.716497"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7375828"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7296399"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75457776"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6909638"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76202905"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7565373"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7157511"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7171016"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7241955"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.688392"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7446505"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.79205966"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7872911"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7561206"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7774333"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7802268"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72284514"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7561462"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7200918"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7406176"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7287812"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7295382"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75131035"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.89264894"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.76393056"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7101177"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.74085903"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7179328"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7277752"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7751564"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7285607"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73871064"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7794514"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7392382"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.71732897"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.69104314"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76639307"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6980901"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7801227"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7222484"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75933474"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7468848"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7832688"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7751242"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8182044"
+    },
+    {
+        "type": "rear end",
+        "score": "0.762391"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74902123"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74017584"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7315923"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76864785"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7405157"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7678642"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7124676"
+    },
+    {
+        "type": "rear end",
+        "score": "0.754261"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72398293"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7116878"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.779698"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73705614"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.6962535"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74591124"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71534634"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7671418"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.70879656"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7661197"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72236866"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7151041"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.71947694"
+    },
+    {
+        "type": "rear end",
+        "score": "0.77369434"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.79477286"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7513633"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7435764"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.79368913"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7282661"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7553044"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7851035"
+    },
+    {
+        "type": "rear end",
+        "score": "0.77087903"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8407062"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7328942"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7566239"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7709259"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76839876"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7517264"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71770334"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7239408"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7364233"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.8181602"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7709676"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73438805"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76970863"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7474934"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73860234"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.72755605"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7303155"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.6797237"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69887316"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7742319"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76723206"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7194197"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.79496384"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71907604"
+    },
+    {
+        "type": "rear end",
+        "score": "0.849316"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6960337"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70964813"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7305884"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7369019"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.85008454"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7157438"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7581268"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7059488"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72430974"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7091713"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7996464"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.84194875"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6979273"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75907934"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7661462"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73084074"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7401309"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7557763"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.76813054"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7926674"
+    },
+    {
+        "type": "rear end",
+        "score": "0.732628"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7905757"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72771156"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7428343"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7089143"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74592674"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75456524"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7178299"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73992366"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72644246"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.74807346"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7656611"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78424215"
+    },
+    {
+        "type": "rear end",
+        "score": "0.71275926"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7024319"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7172406"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7491871"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7585814"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75380003"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69384885"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7491835"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7396586"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76309013"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76371056"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7708554"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72105575"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6875311"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7677289"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.72702116"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7344315"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72432804"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7640769"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7838392"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.72357506"
+    },
+    {
+        "type": "rear end",
+        "score": "0.8561878"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74921405"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8120266"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74443454"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.68353397"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.76012343"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76393914"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.786439"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72999024"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.72678775"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7054105"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7457162"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7219653"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7481786"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7642537"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73445046"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7406256"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7630665"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72304165"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8576065"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72222877"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7005055"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71862334"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7818245"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70105755"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75663793"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7935553"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7251166"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7484404"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.76381576"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73133016"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7639384"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7314826"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7182589"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77292585"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7436459"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7381565"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7032821"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7220515"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7729958"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7201469"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.79339886"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7553859"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73095894"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7526622"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7255473"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75209254"
+    },
+    {
+        "type": "rear end",
+        "score": "0.771343"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74464345"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7208802"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74860305"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7251862"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7815199"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7007344"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75636566"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76797837"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73394287"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8066483"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7149981"
+    },
+    {
+        "type": "rear end",
+        "score": "0.738921"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7681804"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7529266"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78882885"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.71462536"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7141418"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76453197"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71896446"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75044954"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7502851"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71327084"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72773623"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7227738"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74142003"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7562989"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7812754"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7634211"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77226317"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7775795"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.84104526"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71022063"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.68592626"
+    },
+    {
+        "type": "rear end",
+        "score": "0.71388614"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7311547"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7493303"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7549502"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.771417"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7346529"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75437784"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7414088"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6908673"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7321127"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75043905"
+    },
+    {
+        "type": "rear end",
+        "score": "0.763621"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7414838"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76405823"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7485732"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74094903"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7211392"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7807888"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.759599"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76128566"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7808024"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7879601"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7456732"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74142075"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75358665"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.824511"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72325015"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72339547"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73769337"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7330798"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73159075"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7769038"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75196993"
+    },
+    {
+        "type": "rear end",
+        "score": "0.77071047"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7516616"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73519915"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7613938"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.79881805"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7654635"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70558107"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75496995"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7435821"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7053219"
+    },
+    {
+        "type": "rear end",
+        "score": "0.730477"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78434336"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7426905"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73554945"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.71806866"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7649233"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76440024"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7141888"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75114334"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70317346"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7325943"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.69323325"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7350656"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7925019"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7807362"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76675725"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7601911"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8484535"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75168914"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7416059"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.69873834"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73027587"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.70560217"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74929905"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.72520304"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73608714"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74913764"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76603144"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7926922"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.8028757"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75265235"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76875854"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76666236"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7992154"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70894706"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7750999"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8727706"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75024545"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.735162"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7978117"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7528846"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75660455"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7071578"
+    },
+    {
+        "type": "rear end",
+        "score": "0.762474"
+    },
+    {
+        "type": "rear end",
+        "score": "0.78640705"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7388154"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8332795"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7416346"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73602754"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77739614"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7678946"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.67429984"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.700623"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7698647"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.705027"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7075566"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8584862"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7566279"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7682532"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74977005"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.70911926"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7353921"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7166598"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76152927"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7820241"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7887306"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.70362866"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.70234776"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7545215"
+    },
+    {
+        "type": "rear end",
+        "score": "0.754943"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7333459"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8152174"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78773063"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.742457"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76682746"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76668346"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72047305"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6798652"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77025634"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74996173"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7311876"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7422202"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74059814"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73788357"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73976326"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7502966"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74585223"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77200735"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74319106"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.737265"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.67879987"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80509853"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78080857"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73320395"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7355064"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7506328"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70825326"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74237084"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7360625"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7361677"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76259524"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7480821"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7531613"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7409375"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72837704"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7203554"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7360561"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7397157"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7553768"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7371179"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73293114"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75732255"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.754794"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.751375"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7463554"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.76486063"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7579198"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7720623"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7553295"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74725914"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75778604"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74034595"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7385401"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7346979"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73869455"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7896341"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69647956"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75302804"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74828154"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7547891"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7241652"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7514811"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7609854"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.699462"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7187414"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7618824"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7656421"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7777314"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7545866"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7482211"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.68598807"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78599983"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7140302"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.762442"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78710437"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7127993"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.68251574"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7256518"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7653477"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7563063"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75285995"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7281139"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74591357"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73904234"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74488384"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7369931"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73156965"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.81114537"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78233075"
+    },
+    {
+        "type": "rear end",
+        "score": "0.77255476"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7481109"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.84250546"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.706609"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7593332"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7744329"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7275696"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76924086"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7054675"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73933876"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8339346"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.784204"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7230873"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75845796"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73636615"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7759058"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7459591"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72365355"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75491446"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71222824"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.83039796"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7411731"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7419989"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.6923298"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76851505"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77396226"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7320771"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7923589"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7391554"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7792369"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7271298"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75567657"
+    },
+    {
+        "type": "rear end",
+        "score": "0.773942"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7728667"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.77167284"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7632356"
+    },
+    {
+        "type": "rear end",
+        "score": "0.87543094"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77938294"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.724612"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72735465"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75454843"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7896539"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.748747"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7288554"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.71408784"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7315398"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7628407"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7370824"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7643731"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7581165"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7376431"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.8002659"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7930757"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7345545"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77490455"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.77540547"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71851337"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74223256"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74295306"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7077637"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.718403"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78692836"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77571285"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6647617"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7524294"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7956696"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.81496143"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7525517"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74593973"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72560287"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7963238"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7543262"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77781194"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74038136"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74327683"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7609567"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6907569"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7880535"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7358061"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7605623"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7737348"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76767576"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.77280027"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7727207"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75966585"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7164742"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75888276"
+    },
+    {
+        "type": "rear end",
+        "score": "0.71486163"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7438461"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.720902"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7483113"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7610708"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6869001"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72959614"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70457804"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6972487"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6907706"
+    },
+    {
+        "type": "rear end",
+        "score": "0.738255"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.75708425"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7325602"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.76288927"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7661674"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7784423"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73358524"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7666929"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7551662"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7283559"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.79903847"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7577205"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77176505"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7453777"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7306215"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74081874"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76836216"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7395582"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7674577"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7649927"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.788427"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7328416"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.770453"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73178715"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74205995"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8310765"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75567347"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74848163"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7436613"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77630043"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7116284"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.688193"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7896428"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7609333"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76207113"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7445344"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74581885"
+    },
+    {
+        "type": "rear end",
+        "score": "0.78386855"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7878917"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7592287"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8339137"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6744704"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74548835"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8179916"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.70933396"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7608578"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7167741"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7198223"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.79193056"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73323226"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7537206"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7578831"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75432825"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7912013"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.71225387"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76193225"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6935853"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7023424"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76459134"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7531003"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78667915"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73895633"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7094197"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7165122"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.791555"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7693742"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7686903"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7576717"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8044708"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7239636"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72145855"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7362202"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.71911633"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77034545"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75622153"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7309796"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75609267"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7309029"
+    },
+    {
+        "type": "rear end",
+        "score": "0.77535045"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.80705476"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7569948"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.757928"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78249127"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73206997"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7073509"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7334652"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76425815"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7588116"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76178944"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.740863"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7805574"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7118406"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74480456"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7326137"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7388733"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7681681"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7489264"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7995091"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7162584"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74959445"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72249126"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7407366"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73637354"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7668054"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7460984"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.858201"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7525717"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72834665"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71453345"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7340212"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7914161"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7334572"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.78041846"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7798984"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7596326"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7304833"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7714976"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7867241"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.79595387"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7341568"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7187588"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7613003"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7351309"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7116051"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74874973"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7508489"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.77310574"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76844394"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7107433"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74927837"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7354071"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7387943"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7331809"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74559593"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7803924"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74406844"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7523904"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7736007"
+    },
+    {
+        "type": "rear end",
+        "score": "0.8622752"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7607693"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75931525"
+    },
+    {
+        "type": "rear end",
+        "score": "0.69842064"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7178391"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71038187"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7648963"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7679221"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7433855"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69130903"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.78549254"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72326255"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76309437"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8018313"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7644342"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7590711"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.77357984"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7496782"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7230253"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7256531"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7593092"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7531015"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73877585"
+    },
+    {
+        "type": "rear end",
+        "score": "0.743196"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7736196"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6873622"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6877003"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8682734"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7739849"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7632323"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7577173"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7436826"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7960446"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71080166"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7059467"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.72599435"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7411262"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77488196"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7539986"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7254151"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7710179"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.67617875"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7351385"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7572041"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7222571"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74781173"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73637307"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72108614"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7881727"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7574438"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74561596"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7723814"
+    },
+    {
+        "type": "rear end",
+        "score": "0.79145974"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7559886"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.77506584"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.8301497"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7484596"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.716729"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7227665"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71826935"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7613274"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80390084"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75124097"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.79841965"
+    },
+    {
+        "type": "rear end",
+        "score": "0.731327"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7489665"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7032723"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76699185"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7125038"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7533419"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.70100194"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74581516"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73648727"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7852497"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73013157"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71869266"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.6999959"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7823263"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7800126"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6820746"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7024615"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76568866"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7538035"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73161125"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7063937"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.76424277"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7774612"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7500715"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74108213"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6994356"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7602205"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.70174915"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6863988"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.79744303"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76234615"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.743642"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69419765"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7498245"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7589568"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73246044"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74784327"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7322762"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72808516"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75625026"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7974461"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80163336"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7354226"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.68902624"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73301697"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7054652"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.74157935"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7632367"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7826606"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8202938"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7336875"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75740683"
+    },
+    {
+        "type": "rear end",
+        "score": "0.71238935"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73514915"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.69283366"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7352336"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7405999"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7298703"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7683401"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7324162"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7193127"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.68246996"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7314664"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7646543"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7100241"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7642982"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7313931"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7441418"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.70037806"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7604688"
+    },
+    {
+        "type": "rear end",
+        "score": "0.77148676"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7153144"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7284666"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7432975"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75930667"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72681093"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71634465"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.72694445"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6918992"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75275207"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7260636"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73630166"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74422765"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7869458"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7298105"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7198706"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.69691443"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73626715"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7759228"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71353054"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7881063"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7337079"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7004687"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72851545"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.6963917"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7918743"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7147168"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.808187"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73486483"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.69443506"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7870049"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7480191"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.77376443"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.84169924"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73162997"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7238125"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7599959"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8062461"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7400209"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7574582"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75586385"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71946746"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.782881"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7331376"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.701379"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7915294"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.73570704"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7321012"
+    },
+    {
+        "type": "rear end",
+        "score": "0.748068"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8419908"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78399634"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7164606"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7366539"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73706955"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.735572"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7864049"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.77888465"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7298075"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7367626"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74279845"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71584105"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7494881"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70943177"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7388965"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77391315"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7267982"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75403345"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70124304"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72682965"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6820011"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7439636"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7085532"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.712954"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7713405"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.80521166"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.72674406"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74245214"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7678878"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7346158"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7382318"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7188736"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7266824"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7152262"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74728054"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7395941"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7688488"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.69817317"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7909446"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7251414"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75524867"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7396338"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73628414"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74959207"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75658906"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7478299"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7454299"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.69205356"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7775495"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7370893"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.70888287"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7589607"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73029673"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7719039"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7667257"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7876563"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73916703"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72828424"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.73566586"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.734414"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7589983"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7301624"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75142944"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7376758"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.78227353"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75026596"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7378093"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7453741"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74785674"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7636936"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7777974"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7364084"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6744399"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.803642"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.72723985"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.70246536"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7428053"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7460203"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7306682"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7501825"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7339014"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.714011"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74414253"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.78987885"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7337496"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7184316"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7335992"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72690976"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7252894"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7384067"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7473804"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7204994"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74607646"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75489384"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7795577"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7410697"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.72245824"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7259877"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7550077"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.738174"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74810106"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7437854"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7242317"
+    },
+    {
+        "type": "rear end",
+        "score": "0.75612783"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.69111514"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7147879"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73108435"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.71930945"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.75390476"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.73691034"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7199882"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7021628"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73445517"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7304654"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7808126"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7443316"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7825388"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.75487626"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.75559354"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7680783"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.81141233"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74951625"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74747276"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.77470064"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7304249"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7554842"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7710899"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72895"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7301183"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8284415"
+    },
+    {
+        "type": "rear end",
+        "score": "0.72197187"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.82923603"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.76262814"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7270993"
+    },
+    {
+        "type": "rear end",
+        "score": "0.76824135"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7342715"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74501"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7550502"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7690793"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.8466777"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.7414783"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.71389186"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.74618644"
+    },
+    {
+        "type": "rear end",
+        "score": "0.78401625"
+    },
+    {
+        "type": "rear end",
+        "score": "0.7510918"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.73920906"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.77544785"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.74816304"
+    },
+    {
+        "type": "rear end",
+        "score": "0.73548186"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.727964"
+    },
+    {
+        "type": "rear end",
+        "score": "0.732533"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6888932"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.6977542"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.74297607"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7564895"
+    },
+    {
+        "type": "rear end",
+        "score": "0.74817014"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.76469624"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.69192505"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7910984"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7159599"
+    },
+    {
+        "type": "face to face collision",
+        "score": "0.79759777"
+    },
+    {
+        "type": "single car accident",
+        "score": "0.7350605"
+    },
+    {
+        "type": "crossroad collision",
+        "score": "0.7572191"
+    },
+    {
+        "type": "multiple cars collision",
+        "score": "0.7012118"
+    }
+]

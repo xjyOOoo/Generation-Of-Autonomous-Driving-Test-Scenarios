@@ -1,0 +1,9 @@
+{
+    "size":"72B",
+    "RAG":true,
+    "crossroad collision": 0.7490094022816906,
+    "face to face collision": 0.7653989767914438,
+    "multiple cars collision": 0.7550830383720931,
+    "single car accident": 0.7266838314201183,
+    "rear end": 0.7471069222531639
+}
